@@ -36,6 +36,6 @@
     "mocha": "^5.1.1"
   },
   "peerDependencies": {
-    "truffle": "4.x"
+    "truffle": "5.x"
   }
 }
